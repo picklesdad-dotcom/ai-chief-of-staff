@@ -6,3 +6,4 @@
 - [preferences.md](preferences.md) — Communication style, corrections, things to avoid
 - [projects.md](projects.md) — Active lanes, decisions, key details
 - [session_context.md](session_context.md) — Recent session notes (rotated after 7 days)
+- [project_farfetch_invoices.md](project_farfetch_invoices.md) — Farfetch monthly invoice log: invoice/PO numbers, totals, sent/paid status
